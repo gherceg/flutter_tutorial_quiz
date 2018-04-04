@@ -1,8 +1,4 @@
-# quiz
+# Quiz 
 
-A new Flutter application.
+A quiz application created using Google's new Flutter framework, following tutorial by Bram Vanbilsen.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
